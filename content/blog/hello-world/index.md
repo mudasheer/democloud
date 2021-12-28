@@ -110,7 +110,7 @@ This is a paragraph.
 
 - Red
 - Green
-- Blue
+- violet
 
 * Red
 * Green
